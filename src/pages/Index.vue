@@ -51,6 +51,7 @@ viewport: {{viewport}}
         <li>load this page directly within a <strong>desktop layout</strong> you'll get the error - page is still blue</li>
         <li>comment <code>.test</code> div and load this page directly within a <strong>desktop layout</strong> everything is ok - page is red, and no consoole error</li>
       </ul>
+      <p>Or try from our simplier Success/Error pages fro the top navigation</p>
       
     </section>
 

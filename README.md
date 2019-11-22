@@ -1,4 +1,5 @@
-# Default starter for Gridsome
+# Test to show a bug in gridsome using v-if
+> @see this thread : https://github.com/gridsome/gridsome/issues/249
 
 This is the project you get when you run `gridsome create new-project`.
 

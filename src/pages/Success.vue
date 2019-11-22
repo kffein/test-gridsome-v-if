@@ -19,7 +19,6 @@ export default {
   computed:{
     ...mapGetters({
       layout: 'layout',
-      viewport: 'viewport',
     }),
   }
 }
